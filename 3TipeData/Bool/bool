@@ -1,0 +1,5 @@
+bool khususkan argumen True dan False semata.
+Hampir semua nilai adalah True jika ada nilainya.
+Semua string adalah True kecuali string yang kosong.
+Semua nilai numerik adalah True kecuali nilai 0.
+Semua list ,tuple, set dan dictionary True kecuali yang kosong.
